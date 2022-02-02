@@ -1,11 +1,8 @@
 # Simple Android MVVM - One screen sample
 
-In this repository, you will find a gist for what we believe, over time, could turn
-into a massive activity. Your task is to break this view into logical, testable
-chunks.
+In this repository, you will find a gist for what I believe, over time, could turn
+into a massive activity. 
 
-You can use a project structure of your choosing, including 3rd party dependencies and other
-design choices. You may also choose the expand it or modify it's layout.
 
 ## Specs
 
